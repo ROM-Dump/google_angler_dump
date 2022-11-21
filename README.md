@@ -1,0 +1,18 @@
+## angler-user 6.0.1 MMB29M 2431559 release-keys
+- Manufacturer: huawei
+- Platform: msm8994
+- Codename: angler
+- Brand: google
+- Flavor: angler-user
+- Release Version: 6.0.1
+- Id: MMB29M
+- Incremental: 2431559
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: 560
+- Fingerprint: google/angler/angler:6.0.1/MMB29M/2431559:user/release-keys
+- OTA version: 
+- Branch: angler-user-6.0.1-MMB29M-2431559-release-keys
+- Repo: google_angler_dump
